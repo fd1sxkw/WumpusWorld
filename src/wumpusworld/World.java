@@ -6,8 +6,6 @@ import java.util.Vector;
  * This class handles an instance of the Wumpus World. It contains the world
  * state, which actions are available, and updates the world when an action
  * has been executed.
- * 
- * @author Johan Hagelbäck
  */
 public class World 
 {

@@ -4,8 +4,6 @@ import java.io.*;
 
 /**
  * Reads the config.txt settings file.
- * 
- * @author admin
  */
 public class Config 
 {

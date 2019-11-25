@@ -3,8 +3,6 @@ package wumpusworld;
 /**
  * Interface for creating a Wumpus World solver
  * agent.
- * 
- * @author Johan Hagelbäck
  */
 public interface Agent 
 {

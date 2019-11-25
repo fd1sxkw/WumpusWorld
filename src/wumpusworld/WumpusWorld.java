@@ -7,8 +7,6 @@ import java.util.Vector;
  * solved step by step manually or by an agent, or 2) run
  * a simulation with random worlds over a number of games,
  * or 3) run a simulation over the worlds read from a map file.
- * 
- * @author Johan Hagelbäck
  */
 public class WumpusWorld {
 

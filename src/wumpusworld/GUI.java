@@ -9,8 +9,6 @@ import java.util.Vector;
 /**
  * GUI for the Wumpus World. Only supports worlds of 
  * size 4.
- * 
- * @author Johan Hagelbäck
  */
 public class GUI implements ActionListener
 {

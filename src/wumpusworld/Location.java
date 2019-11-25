@@ -5,8 +5,6 @@ package wumpusworld;
  * squares to move to. It contains the position for a 
  * square, and a priority. Lower priovalues = higher
  * priority.
- * 
- * @author Johan Hagelbäck
  */
 public class Location implements Comparable
 {
